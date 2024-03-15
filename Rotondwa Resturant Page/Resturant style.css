@@ -1,0 +1,56 @@
+.header img{
+    float: left; width: 5px; height: 5px;
+    background-color: goldenrod;
+    transition: 1s;
+    align-content: left;
+}
+.header h1 {
+    position: relative;
+    top: 18px; left: 10px;
+    text-align: center;
+  }
+ 
+  .article{
+    background-color: wheat;
+    text-align: right;
+  }
+  .body{
+    background: "C:\Users\Gerald Ramaru\Desktop\Rotondwa WEP411_FA1\Rotondwa Resturant Page\Logo.png";
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+    text-align: center;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  p{
+    font-size: 20px;
+  }
+  h1{
+    color: black;
+    padding-top: 20px;
+    padding-left: 250px;
+    font-size: 3em;
+  }
+  div{
+    flex: auto;
+  }
+  table, th,td{
+    border-collapse: solid ;
+    padding: 5px;
+    float: left;
+  }
+  table.center{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  button{
+    border-radius: 20px;
+  }
+  .footer{
+    background-color: lightgoldenrodyellow;
+    text-align: left;
+  }
